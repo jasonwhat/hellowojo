@@ -7,6 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I am a Senior Media Fellow at the Center for Impact Communications. I have spent the past two decades creating communcation campaigns for causes, political campaigns and Nobel Peace Prize Winners.
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+You may have seen some of my work or even read some of my writing but you wouldn't know it was me.
