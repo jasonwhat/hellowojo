@@ -1,6 +1,6 @@
 /* Color customization */
 :root {
-  --primary: #698996;
+  --primary: #D3D7E3;
   --primary-dark: #F5D6BA;
 }
 
@@ -1006,7 +1006,7 @@ img {
 body {
   font-family: var(--font-family);
   background: #D3D7E3;
-  color: #eee;
+  color: #808c99;
 }
 section {
   margin-left: auto;
