@@ -27,10 +27,12 @@ content:
     path: src/_data/site.json
     type: file
     fields:
-      - name: title
-        label: Website title
+      - name: Hello Wojo
+        label: Jason Wojciechowski
         type: string
-      - name: description
+      - name: I'm a communications professional who advises activists and organziations, as well as researching and writing about social issues and media narratives.
+
+Currently, I'm the Senior Media Fellow at the Center for Impact Communications.
         label: Website description
         type: string
         description: Will be provused for any page with no description.
